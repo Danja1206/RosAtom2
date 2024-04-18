@@ -19,4 +19,4 @@ $APPLICATION->SetTitle("Форма обратной связи");
 );?><br>
 <br>
 
-<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?> 
