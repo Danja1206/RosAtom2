@@ -6,7 +6,7 @@ $arComponentDescription = array(
 	"CACHE_PATH" => "y",
 	"PATH" => array(
 		"ID" => "ex2simple",
-		"NAME" => GetMessage("EXAM2"),
+		"NAME" => GetMessage("EXAM2"), 
 	),
 );
 ?>

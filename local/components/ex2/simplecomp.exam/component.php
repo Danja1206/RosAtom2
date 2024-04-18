@@ -13,7 +13,7 @@ if(!Loader::includeModule("iblock"))
 if (empty($arParams["CACHE_TIME"]))
     $arParams["CACHE_TIME"] = 36000000;
 
-if (empty($arParams["PRODUCTS_IBLOCK_ID"]))
+if (empty($arParams["PRODUCTS_IBLOCK_ID"])) 
     $arParams["PRODUCTS_IBLOCK_ID"] = 0;
 
 if (empty($arParams["CLASSIF_IBLOCK_ID"]))

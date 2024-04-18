@@ -17,7 +17,7 @@
                                 <?=$arItem["PROPERTY"]["ARTNUMBER"]["VALUE"]?> -
                                 <a href="<?=$arItem["DETAIL_PAGE_URL"]?>">ссылка на детальный просмотр</a>
                             </li>
-                        <?php endforeach; ?>
+                        <?php endforeach; ?> 
                     </ul>
                 <?php endif; ?>
             </li>
