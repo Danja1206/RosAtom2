@@ -23,7 +23,7 @@ $arParams["PROPERTY_CODE"] = trim($arParams["PROPERTY_CODE"]);
 global $USER, $CACHE_MANAGER;
 
 if ($this->startResultCache(false, array($USER->GetGroups()), "/servicesIblock")) {
-    $CACHE_MANAGER->RegisterTag("iblock_id_2");
+    $CACHE_MANAGER->RegisterTag("iblock_id_2"); 
     $arClassif = array();
     $arClassifId = array();
     $arResult["COUNT"] = 0;
