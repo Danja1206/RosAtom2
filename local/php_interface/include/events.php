@@ -20,7 +20,7 @@ class Ex2
             self::logEvent($event, $arFields["AUTHOR"]);
         }
     }
-
+ 
     static function Ex2_94()
     {
         global $APPLICATION;
