@@ -15,7 +15,7 @@ require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");$APPLICATION->SetTitle("
 		"COMPONENT_TEMPLATE" => ".default",
 		"CLASSIF_IBLOCK_ID" => "6",
 		"TEMPLATE" => "",
-		"PROPERTY_CODE" => "FIRMA"
+		"PROPERTY_CODE" => "FIRMA" 
 	),
 	false
 );?>
